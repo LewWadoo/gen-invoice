@@ -1,7 +1,7 @@
 import collections, csv, datetime, json, locale, os, platform, shutil, subprocess, tempfile, yaml
 from jinja2 import Environment, FileSystemLoader, Template
 from dateutil.relativedelta import relativedelta
-from pkg_resources import parse_version
+from packaging.version import parse as parse_version
 from .Utility import Utility
 
 

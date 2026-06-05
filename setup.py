@@ -32,6 +32,7 @@ setup(
 		'Jinja2>=2.10.1',
 		'python-dateutil>=2.8.0',
 		'PyYAML>=5.1.1',
+		'packaging>=21.3',
 		'setuptools>=38.6.0',
 		'twine>=1.11.0',
 		'wheel>=0.31.0'
